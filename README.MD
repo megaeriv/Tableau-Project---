@@ -28,13 +28,14 @@ In this project, I would go over the steps regularhy taken when embarking on bui
   1. Draw Mockup for container
   2. Create Container Structure
   3. Put all Charts Together
+  4. Format : 
       + Distribute Object Evenly
       + Format Colors, Size...etc
       + Fit "Entire View"
       + Add legends
       + Add spaces (inner/outer padding)
-  4. Add Filters & Dynamic
-Add Icons
+  5. Add Filters & Dynamic
+  6.Add Icons
 
 
 
