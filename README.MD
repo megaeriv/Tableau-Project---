@@ -43,7 +43,8 @@ In this project, I would go over the steps regularly taken when embarking on bui
 ---
 
 ## STEP 1 : Analyze Requirements
-1. Collect Requirements
+                                **1. Collect Requirements**
+                                **2. Choose the Right Charts**
 This is where the requirements from stakholders are understood to detail
 
 ### Key Requirements
